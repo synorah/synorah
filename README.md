@@ -1,6 +1,6 @@
-# Welcome to Synorah
+![Synorah Logo](assets/synorah.png)
 
-Welcome to our official GitHub repository!
+# Welcome to our official GitHub repository!
 We are a web development and design team with a passion for building powerful and elegant web applications.
 Our focus is on creating modern, high-performance websites and applications using cutting-edge tools and technologies.
 
